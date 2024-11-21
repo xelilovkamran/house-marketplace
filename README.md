@@ -4,22 +4,22 @@
 
 Here are some of the current features that Property Pulse has:
 
-- [x] User authentication with Google & Next Auth
-- [x] User authorization
-- [x] Route protection
-- [x] User profile with user listings
-- [x] Property Listing CRUD
-- [x] Property image upload (Multiple)
-- [x] Property search
-- [x] Internal messages with 'unread' notifications
-- [x] Photoswipe image gallery
-- [x] Mapbox maps
-- [x] Toast notifications
-- [x] Property bookmarking / saved properties
-- [x] Property sharing to social media
-- [x] Loading spinners
-- [x] Responsive design (Tailwind)
-- [x] Custom 404 page
+- [ ] User authentication with Google & Next Auth
+- [ ] User authorization
+- [ ] Route protection
+- [ ] User profile with user listings
+- [ ] Property Listing CRUD
+- [ ] Property image upload (Multiple)
+- [ ] Property search
+- [ ] Internal messages with 'unread' notifications
+- [ ] Photoswipe image gallery
+- [ ] Mapbox maps
+- [ ] Toast notifications
+- [ ] Property bookmarking / saved properties
+- [ ] Property sharing to social media
+- [ ] Loading spinners
+- [ ] Responsive design (Tailwind)
+- [ ] Custom 404 page
 
 Property Pulse uses the following technologies:
 
@@ -76,7 +76,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
