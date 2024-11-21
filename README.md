@@ -1,5 +1,7 @@
 # House Marketplace
 
+<img src="public/home.png" />
+
 ## Features
 
 Here are some of the current features that Property Pulse has:
