@@ -1,5 +1,5 @@
 import connectDB from '@/config/database';
-import User from '@/models/User';
+import User from '@/models/User.model';
 
 import GoogleProvider from 'next-auth/providers/google';
 
